@@ -1,6 +1,6 @@
 # 🚀 **Ios App Cloner Device Spoofer Non Jailbroken Antidetect**
 
-<img src="./images/logo.png" style="width: 80%;" alt="App Logo">
+<img src="./images/compressed_compressed_logo.png" style="width: 80%;" alt="App Logo">
 
 ---
 
@@ -27,9 +27,9 @@ You need a **unique user identity** for your application, but:
 ### 📸 **Screenshots**
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="./images/IMG_8356.PNG" style="width: 30%;" alt="Screenshot 1">
-  <img src="./images/IMG_8355.PNG" style="width: 30%;" alt="Screenshot 2">
-  <img src="./images/IMG_8357.PNG" style="width: 30%;" alt="Screenshot 3">
+  <img src="./images/compressed_compressed_IMG_8356.PNG" style="width: 30%;" alt="Screenshot 1">
+  <img src="./images/compressed_compressed_IMG_8355.PNG" style="width: 30%;" alt="Screenshot 2">
+  <img src="./images/compressed_compressed_IMG_8357.PNG" style="width: 30%;" alt="Screenshot 3">
 </div>
 
 ---
